@@ -8,11 +8,11 @@ include_in_header: false
 January 20, 2024
 
 # Privacy Policy
-Thank you for using **Derated**! This Privacy Policy outlines how we handle your information when you use our application.
+Thank you for using **QuickBend**! This Privacy Policy outlines how we handle your information when you use our application.
 
 1. No Collection of Personal Information
 
-We do not collect any personally identifiable information from our users. You can use **Derated** without providing any personal details.
+We do not collect any personally identifiable information from our users. You can use **QuickBend** without providing any personal details.
 
 2. Non-Personal Information
 
@@ -20,7 +20,7 @@ We may collect non-personal information, such as device information or usage dat
 
 3. Cookies and Similar Technologies
 
-**Derated** does not use cookies or any similar tracking technologies.
+**QuickBend** does not use cookies or any similar tracking technologies.
 
 4. Third-Party Services
 
