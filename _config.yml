@@ -1,8 +1,8 @@
 #page title
-page_title                                : Derated                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : QuickBend                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6468839409                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1010311475                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Fill and Derating Calculator
+app_description                           : Conduit Bending Calculator
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -80,18 +80,18 @@ email_address                             : support@quickbend.app
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 0.2
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : ""                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#3634A3"
+cover_overlay_color                       : "#007AFF"
 cover_overlay_transparency                : 1
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#3634A3"
+link_color                                : "#007AFF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -101,10 +101,10 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#3634A3"
+feature_icons_background_color            : "#007AFF"
 
 social_icons_foreground_color             : "#ffffff"
-social_icons_background_color             : "#3634A3"
+social_icons_background_color             : "#007AFF"
 
 footer_text_color                         : "#666666"
 
